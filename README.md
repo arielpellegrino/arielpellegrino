@@ -14,10 +14,10 @@ Driven by the challenge, adventurer of Stack Overflow and pioneer of the bugs ca
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielpellegrino&hide=stars,prs&show_icons=true&layout=compact&theme=react&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielpellegrino&hide=stars,prs&show_icons=true&layout=compact&theme=graywhite&layout=compact)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielpellegrino&&theme=react&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielpellegrino&&theme=graywhite&layout=compact)
 
 
 
