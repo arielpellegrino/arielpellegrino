@@ -6,13 +6,7 @@
 
 
 
-**FullStack Developer** and explorer of the world 🌎!
-
-
-Driven by the challenge, Stack Overflow adventurer and pioneer of the bugs caused by not saving the file, I graduated in administration and analysis and systems development.
-
-And maybe passionate about technology or something...
-
+**BackEnd Developer** and explorer of the world 🌎!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielpellegrino&hide=stars,prs&show_icons=true&layout=compact&theme=graywhite&layout=compact)
