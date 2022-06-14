@@ -4,34 +4,9 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=plastic-square&logo=Github&logoColor=green&link=https://github.com/arielpellegrino)](https://github.com/arielpellegrino)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-386f96?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aripellegrino/)](https://www.linkedin.com/in/aripellegrino/)   [![Instagram Badge](https://img.shields.io/badge/-Instagram-79064c?style=plastic-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ar1elpellegrino)](https://www.instagram.com/ar1elpellegrino) 
 
-
-
-**BackEnd Developer** and explorer of the world 🌎!
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arielpellegrino&hide=stars,prs&show_icons=true&layout=compact&theme=graywhite&layout=compact)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arielpellegrino&&theme=graywhite&layout=compact)
-
-
-
-------------------------------
-
-<h1 align="center">Ariel Pellegrino</h1>
-
 ###
 <p align="left">Bem vindo ao meu perfil do github. aqui salvo todo meu aprendizado e alguns projetos pessoais<br><br>Sinta-se em casa.</p>
 
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/aripellegrino/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ar1elpellegrino/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
 <div align="center">
