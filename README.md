@@ -1,11 +1,14 @@
-##  🧙‍♂️ ARIEL PELLEGRINO 
+# Hi there, Ariel Pellegrino 🤌
 
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=plastic-square&logo=Github&logoColor=green&link=https://github.com/arielpellegrino)](https://github.com/arielpellegrino)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-386f96?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aripellegrino/)](https://www.linkedin.com/in/aripellegrino/)   [![Instagram Badge](https://img.shields.io/badge/-Instagram-79064c?style=plastic-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ar1elpellegrino)](https://www.instagram.com/ar1elpellegrino) 
 
 ###
-<p align="left">Bem vindo ao meu perfil do github. aqui salvo todo meu aprendizado e alguns projetos pessoais<br><br>Sinta-se em casa.</p>
+- Estagiário de desenvolvimento de sistemas na empresa @Sensedia_api
+- Back-End developer
+- Formado em administração e graduando em analise e desenvolvimento de sistemas
+- São Paulo - SP 🇧🇷
 
 
 ###
