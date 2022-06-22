@@ -17,6 +17,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=ocean_dark&hide_border=true&username=arielpellegrino" height="153" alt="languages graph"  />
 </div>
 
+</br>
+</br>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -30,11 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
 </div>
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=arielpellegrino.arielpellegrino&left_color=darkgreen&right_color=yellowgreen&left_text=Profile views"  />
-</div>
 
-###
 
 
 
