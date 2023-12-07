@@ -1,9 +1,3 @@
-###
-- Desenvolvedor JR na empresa @Sensedia
-- Back-End developer
-- Formado em administração e graduando em analise e desenvolvimento de sistemas
-- São Paulo - SP 🇧🇷
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ariel Pellegrino
 ========================================================================================================================================
 
