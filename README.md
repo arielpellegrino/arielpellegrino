@@ -7,7 +7,7 @@
 - 💻  Desenvolvedor na empresa @Sensedia
 - 🏛️ Formado em <b>Administração</b> e <b>Analise e Desenvolvimento de Sistemas</b>.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arielpellegrino&theme=tokyonight)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arielpellegrino&theme=tokyonight)  -  -![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arielpellegrino&theme=tokyonight)
 
@@ -16,7 +16,13 @@
 <a  href="https://www.linkedin.com/in/aripellegrino"  target="_blank"  rel="noreferrer">  <picture>  <source  media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"  />  <source  media="(prefers-color-scheme: light)"  srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"  />  <img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"  width="32"  height="32"  />  </picture>  </a> <a  href="https://www.youtube.com/@ArielPellegrino"  target="_blank"  rel="noreferrer">  <picture>  <source  media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg"  />  <source  media="(prefers-color-scheme: light)"  srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg"  />  <img  src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg"  width="32"  height="32"  />  </picture>  </a> 
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWIyMjFybnQ2ZGFla3hrYnp3a3oxN3o0czVlcXZ6ZWJocXRobXh4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1ZP8qqDKyNnW/giphy.gif"
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWIyMjFybnQ2ZGFla3hrYnp3a3oxN3o0czVlcXZ6ZWJocXRobXh4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1ZP8qqDKyNnW/giphy.gif"/>
 </p>
 
-
+<table>
+  <tr>
+    <td>![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arielpellegrino&theme=tokyonight)</td>
+    <td>Coluna 2</td>
+    <td>Coluna 3</td>
+  </tr>
+</table>
