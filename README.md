@@ -9,7 +9,6 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arielpellegrino&theme=tokyonight)
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWIyMjFybnQ2ZGFla3hrYnp3a3oxN3o0czVlcXZ6ZWJocXRobXh4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h1ZP8qqDKyNnW/giphy.gif"/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arielpellegrino&theme=tokyonight) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arielpellegrino&theme=tokyonight)
 
