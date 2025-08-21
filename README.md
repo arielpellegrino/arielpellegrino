@@ -11,7 +11,7 @@
 
 | Today | In the near future |
 |----------|----------|
-| [![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,nodejs,jest,mongo,postgres,python,django,postman,docker,api&perline=6)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=vue,nuxt,flask,fastapi,aws,azure,vitest,api,api,api,api,api,api&perline=6)](https://skillicons.dev)  |
+| [![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,nodejs,jest,mongo,postgres,python,django,postman,docker,api&perline=6)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=vue,nuxt,flask,fastapi,aws,azure,vitest,angular,api,api,api,api,api&perline=6)](https://skillicons.dev) and more...|
 
 
 
