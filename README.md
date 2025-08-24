@@ -19,7 +19,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arielpellegrino&theme=tokyonight)               -- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arielpellegrino&theme=tokyonight)  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arielpellegrino&theme=tokyonight)
  
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arielpellegrino&bg_color=2d3e50&color=ffffff&line=52b983&point=1dedc3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###  → Social
 
