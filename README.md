@@ -8,11 +8,11 @@
 ![Gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXUyemt2MWUxNnI2aXZhZ2U4NW56eWF4Z2V6ZTFqcXZhejRqMWZxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yjI5G3pE3NH3O/giphy.gif)
 
 ###  → Hard Skill
-
+<!--
 | Today | In the near future |
 |----------|----------|
 | [![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,nodejs,jest,mongo,postgres,python,django,postman,docker,api&perline=6)](https://skillicons.dev)  | [![My Skills](https://skillicons.dev/icons?i=vue,nuxt,flask,fastapi,aws,azure,vitest,angular,api,api,api,api,api&perline=6)](https://skillicons.dev) and more...|
-
+-->
 
 
 
